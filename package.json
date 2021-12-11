@@ -1,0 +1,16 @@
+{
+  "name": "tse-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot de telegram para el laboratorio de TSE 2021",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
